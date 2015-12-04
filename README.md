@@ -16,6 +16,10 @@ Fisher Wallace Laboratories is a wearable medical device company.  The company's
 
 * Focus and Concentration Research
 
+# Clinical trials: List
+
+* A Pilot Study of Safety and Efficacy of Cranial Electrotherapy Stimulation in Treatment of Bipolar II Depression (2015)
+
 
 
 
