@@ -8,7 +8,7 @@ Fisher Wallace Laboratories is a wearable medical device company.  The company's
 
 # Multiple clinical trials have been performed using the Fisher Wallace Stimulator and devices deemed similar for research purposes.  
 
-* [Depression and Anxiety Research] - Comparing Java, and Ruby's Hello World.
+* [Depression and Anxiety Research]
 
 
 * Insomnia Research
