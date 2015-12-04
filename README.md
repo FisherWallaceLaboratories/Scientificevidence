@@ -81,6 +81,14 @@ Fisher Wallace Laboratories is a wearable medical device company.  The company's
 
 [Cranial Electrotherapy Stimulation for the Treatment of Depression Mary Gunther, PhD.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/1.Anxiety%20and%20Depression/Cranial%20Electrotherapy%20Stimulation%20for%20the%20Treatment%20of%20Depression%20Mary%20Gunther%2C%20PhD.pdf
 
+[Effects of Transcerebral electrotherapy electrosleep on state anxiety according to suggestibility levels ryan souheaver.pdf]
+
+[Efficiency of transcranial electrostimulation on anxiety and insomnia symptoms during a washout period in depressed patients a double-blind study.pdf]
+
+Electrosleep therapy a controlled study of its effects in anxiety neurosis.pdf]
+
+[The administration of transcranial electric treatment for affective disturbances therapy in alcoholic patients.pdf]
+
 
 
 
