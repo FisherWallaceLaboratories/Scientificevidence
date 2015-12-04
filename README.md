@@ -21,7 +21,27 @@ Fisher Wallace Laboratories is a wearable medical device company.  The company's
 
 * A Pilot Study of Safety and Efficacy of Cranial Electrotherapy Stimulation in Treatment of Bipolar II Depression (2015)
 
+* [Cranial Electrotherapy Stimulation - Ray B Smith.pdf]
 
+* [Cranial Electrotherapy Stimulation as a treatment for anxiety in chemically dependent persons.pdf]
+
+* [Electrosleep a double blind clinical study rosenthal.pdf]
+
+* [A Pilot Study of Safety and Efficacy of Cranial Electrotherapy Stimulation in Treatment of Bipolar II Depression.pdf]
+
+* [A pilot Study of Cranial Electrotherapy Stimulation for Generalized Anxiety Disorder.pdf]
+
+* [A safer alternative to psychopharmaceuticals in the treatment of depression  gilula kirsch.pdf]
+
+* [ANXIETY - Bystritsky UCLA.pdf]
+
+* [CES - A safe and effective low cost means of anxiety control in a dental practice. pdf]
+
+* [CES in Patients Suffering from Acute Disorders.pdf]
+
+* [CRANIAL ELECTROTHERAPY STIMULATION (CES) IN THE TREATMENT OF ANXIETY AND OTHER STRESS-RELATED DISORDERS- A REVIEW OF CONTROLLED CLINICAL TRIALS 1997 De Felice.pdf]
+
+* [Cranial Electrotherapy Stimulation for the Treatment of Depression Mary Gunther, PhD.pdf]
 
 [Depression and Anxiety Research]:https://github.com/FisherWallaceLaboratories/Scientificevidence/tree/master/1.Anxiety%20and%20Depression
 
