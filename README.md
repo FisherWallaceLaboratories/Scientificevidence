@@ -1,4 +1,4 @@
-![Image of Fisher Wallace] (test)
+![Image of Fisher Wallace] (https://raw.githubusercontent.com/FisherWallaceLaboratories/Scientificevidence/master/Logo.png)
 
 [Fisher Wallace]
 
