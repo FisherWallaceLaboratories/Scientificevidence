@@ -81,11 +81,11 @@ Fisher Wallace Laboratories is a wearable medical device company.  The company's
 
 [Cranial Electrotherapy Stimulation for the Treatment of Depression Mary Gunther, PhD.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/1.Anxiety%20and%20Depression/Cranial%20Electrotherapy%20Stimulation%20for%20the%20Treatment%20of%20Depression%20Mary%20Gunther%2C%20PhD.pdf
 
-[Effects of Transcerebral electrotherapy electrosleep on state anxiety according to suggestibility levels ryan souheaver.pdf]
+[Effects of Transcerebral electrotherapy electrosleep on state anxiety according to suggestibility levels ryan souheaver.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/1.Anxiety%20and%20Depression/Effects%20of%20Transcerebral%20electrotherapy%20electrosleep%20on%20state%20anxiety%20according%20to%20suggestibility%20levels%20ryan%20souheaver.pdf
 
-[Efficiency of transcranial electrostimulation on anxiety and insomnia symptoms during a washout period in depressed patients a double-blind study.pdf]
+[Efficiency of transcranial electrostimulation on anxiety and insomnia symptoms during a washout period in depressed patients a double-blind study.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/1.Anxiety%20and%20Depression/Efficiency%20of%20transcranial%20electrostimulation%20on%20anxiety%20and%20insomnia%20symptoms%20during%20a%20washout%20period%20in%20depressed%20patients%20a%20double-blind%20study.pdf
 
-Electrosleep therapy a controlled study of its effects in anxiety neurosis.pdf]
+Electrosleep therapy a controlled study of its effects in anxiety neurosis.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/1.Anxiety%20and%20Depression/Electrosleep%20therapy%20a%20controlled%20study%20of%20its%20effects%20in%20anxiety%20neurosis.pdf 
 
 [The administration of transcranial electric treatment for affective disturbances therapy in alcoholic patients.pdf]
 
