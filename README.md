@@ -51,6 +51,20 @@ Fisher Wallace Laboratories is a wearable medical device company.  The company's
 
 * [The administration of transcranial electric treatment for affective disturbances therapy in alcoholic patients.pdf]
 
+* [Cranial Electrotherapy Stimulation - Ray B Smith.pdf]
+
+* [Efficacy of cranial electric stimulation for the treatment of insomnia- A randomized pilot study 2013 Walter Reed Medical Center.pdf]
+
+* [Efficiency of transcranial electrostimulation on anxiety and insomnia symptoms during a washout period in depressed patients a double-blind study.pdf]
+
+* [Electrosleep Therapy - A double-blind trial.pdf]
+
+* [Electrosleep-A clinical trial.pdf]
+
+* [Sleep Society Newsletter.pdf]
+
+* [The Treatment of Insomnia through the use of electrosleep an eeg study weiss.pdf]
+
 [Depression and Anxiety Research]:https://github.com/FisherWallaceLaboratories/Scientificevidence/tree/master/1.Anxiety%20and%20Depression
 
 [Insomnia Research]:https://github.com/FisherWallaceLaboratories/Scientificevidence/tree/master/2.Insomnia
