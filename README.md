@@ -128,6 +128,20 @@ Fisher Wallace Laboratories is a wearable medical device company.  The company's
 
 [The Treatment of Insomnia through the use of electrosleep an eeg study weiss.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/2.Insomnia/The%20Treatment%20of%20Insomnia%20through%20the%20use%20of%20electrosleep%20an%20eeg%20study%20weiss.pdf
 
+[Cerebrospinal fluid and plasma neurochemicals response t cranial electrical stimulation Shealy.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/3.Biomarker%20Data/01%20Cerebrospinal%20fluid%20and%20plasma%20neurochemicals%20response%20t%20cranial%20electrical%20stimulation%20Shealy.pdf 
+
+[Depression A diagnostic neurochemical profile and therapy with cranial electrical stimulation Shealy.pdf]: https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/3.Biomarker%20Data/02%20Depression%20A%20diagnostic%20neurochemical%20profile%20and%20therapy%20with%20cranial%20electrical%20stimulation%20Shealy.pdf
+
+[Liss Gathering Effect.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/3.Biomarker%20Data/03%20Liss%20Gathering%20Effect.pdf 
+
+[Physiological and therapeutic effects of high frequency electrical pulses Liss.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/3.Biomarker%20Data/04%20Physiological%20and%20therapeutic%20effects%20of%20high%20frequency%20electrical%20pulses%20Liss.pdf 
+
+[Alternating low frequency stimulation of medial septal and commissural fibers induces NMDA-dependent, long-lasting potentiation of hippocampal synapses in urethane-anesthetized rats 2009.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/3.Biomarker%20Data/Alternating%20low%20frequency%20stimulation%20of%20medial%20septal%20and%20commissural%20fibers%20induces%20NMDA-dependent%2C%20long-lasting%20potentiation%20of%20hippocampal%20synapses%20in%20urethane-anesthetized%20rats%202009.pdf 
+
+[Potential and Current Density Distributions of Cranial Electrotherapy Stimulation (CES) in a Four-Concentric-Spheres Model.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/3.Biomarker%20Data/Potential%20and%20Current%20Density%20Distributions%20of%20%20Cranial%20Electrotherapy%20Stimulation%20%28CES%29%20%20in%20a%20Four-Concentric-Spheres%20Model.pdf
+
+[Waveforms.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/3.Biomarker%20Data/Waveforms.pdf 
+
 
 
 
