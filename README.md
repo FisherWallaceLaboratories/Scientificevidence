@@ -105,6 +105,14 @@ Fisher Wallace Laboratories is a wearable medical device company.  The company's
 
 [Efficacy of cranial electric stimulation for the treatment of insomnia- A randomized pilot study 2013 Walter Reed Medical Center.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/2.Insomnia/02%20Efficacy%20of%20cranial%20electric%20stimulation%20for%20the%20treatment%20of%20insomnia-%20A%20randomized%20pilot%20study%202013%20Walter%20Reed%20Medical%20Center.pdf
 
+[Electrosleep Therapy - A double-blind trial.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/2.Insomnia/Electrosleep%20Therapy%20-%20A%20double-blind%20trial.pdf
+
+[Electrosleep-A clinical trial.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/2.Insomnia/Electrosleep-A%20clinical%20trial.pdf
+
+[Sleep Society Newsletter.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/2.Insomnia/Sleep%20Society%20Newsletter.pdf
+
+[The Treatment of Insomnia through the use of electrosleep an eeg study weiss.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/2.Insomnia/The%20Treatment%20of%20Insomnia%20through%20the%20use%20of%20electrosleep%20an%20eeg%20study%20weiss.pdf
+
 
 
 
