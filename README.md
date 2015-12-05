@@ -65,6 +65,21 @@ Fisher Wallace Laboratories is a wearable medical device company.  The company's
 
 * [The Treatment of Insomnia through the use of electrosleep an eeg study weiss.pdf]
 
+* [Cerebrospinal fluid and plasma neurochemicals response t cranial electrical stimulation Shealy.pdf]
+
+* [Depression A diagnostic neurochemical profile and therapy with cranial electrical stimulation Shealy.pdf]
+
+* [Liss Gathering Effect.pdf]
+
+* [Physiological and therapeutic effects of high frequency electrical pulses Liss.pdf]
+
+* [Alternating low frequency stimulation of medial septal and commissural fibers induces NMDA-dependent, long-lasting potentiation of hippocampal synapses in urethane-anesthetized rats 2009.pdf]
+
+* [Potential and Current Density Distributions of Cranial Electrotherapy Stimulation (CES) in a Four-Concentric-Spheres Model.pdf]
+
+* [Waveforms.pdf]
+
+
 [Depression and Anxiety Research]:https://github.com/FisherWallaceLaboratories/Scientificevidence/tree/master/1.Anxiety%20and%20Depression
 
 [Insomnia Research]:https://github.com/FisherWallaceLaboratories/Scientificevidence/tree/master/2.Insomnia
