@@ -79,6 +79,11 @@ Fisher Wallace Laboratories is a wearable medical device company.  The company's
 
 * [Waveforms.pdf]
 
+* [A study of the effects of cranial electrical stimulation on attention and concentration- Susan Southworth.pdf]
+
+* [ADD Research Article - Cranial Electrotherapy Stimulation in the Treatment of Stress Related Cognitive Dysfunction Smith.pdf]
+
+* [Dr. Brown - Non-drug treatments for ADHD - CES chapter.pdf]
 
 [Depression and Anxiety Research]:https://github.com/FisherWallaceLaboratories/Scientificevidence/tree/master/1.Anxiety%20and%20Depression
 
@@ -142,7 +147,11 @@ Fisher Wallace Laboratories is a wearable medical device company.  The company's
 
 [Waveforms.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/3.Biomarker%20Data/Waveforms.pdf 
 
+[A study of the effects of cranial electrical stimulation on attention and concentration- Susan Southworth.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/4.Concentration%20and%20Memory/01%20A%20study%20of%20the%20effects%20of%20cranial%20electrical%20stimulation%20on%20attention%20and%20concentration-%20Susan%20Southworth.pdf
 
+[ADD Research Article - Cranial Electrotherapy Stimulation in the Treatment of Stress Related Cognitive Dysfunction Smith.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/4.Concentration%20and%20Memory/02%20ADD%20Research%20Article%20-%20Cranial%20Electrotherapy%20Stimulation%20in%20the%20Treatment%20of%20Stress%20Related%20Cognitive%20Dysfunction%20Smith.pdf
+
+[Dr. Brown - Non-drug treatments for ADHD - CES chapter.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/4.Concentration%20and%20Memory/Dr.%20Brown%20-%20Non-drug%20treatments%20for%20ADHD%20-%20CES%20chapter.pdf
 
 
 
