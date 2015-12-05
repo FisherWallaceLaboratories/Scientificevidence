@@ -1,6 +1,6 @@
 ![Image of Fisher Wallace] (https://raw.githubusercontent.com/FisherWallaceLaboratories/Scientificevidence/master/Logo.png)
 
-[Fisher Wallace]
+[Fisher Wallace Laboratories]
 
 # Fisher Wallace Laboratories
 
@@ -157,7 +157,7 @@ Fisher Wallace Laboratories is a wearable medical device company.  The company's
 
 
 
-[Fisher Wallace]:http://www.FisherWallace.com
+[Fisher Wallace Laboratories]:http://www.FisherWallace.com
 
 
 
