@@ -103,6 +103,9 @@ Fisher Wallace Laboratories is a wearable medical device company.  The company's
 
 [The administration of transcranial electric treatment for affective disturbances therapy in alcoholic patients.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/1.Anxiety%20and%20Depression/The%20administration%20of%20transcranial%20electric%20treatment%20for%20affective%20disturbances%20therapy%20in%20alcoholic%20patients.pdf
 
+[Efficacy of cranial electric stimulation for the treatment of insomnia- A randomized pilot study 2013 Walter Reed Medical Center.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/2.Insomnia/02%20Efficacy%20of%20cranial%20electric%20stimulation%20for%20the%20treatment%20of%20insomnia-%20A%20randomized%20pilot%20study%202013%20Walter%20Reed%20Medical%20Center.pdf
+
+
 
 
 
