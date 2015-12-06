@@ -19,7 +19,7 @@ Fisher Wallace Laboratories is a wearable medical device company.  The company's
 
 # Clinical trials: List
 
-* A Pilot Study of Safety and Efficacy of Cranial Electrotherapy Stimulation in Treatment of Bipolar II Depression (2015)
+* [A Pilot Study of Safety and Efficacy of Cranial Electrotherapy Stimulation in Treatment of Bipolar II Depression (2015)]
 
 * [Cranial Electrotherapy Stimulation - Ray B Smith.pdf]
 
@@ -153,6 +153,7 @@ Fisher Wallace Laboratories is a wearable medical device company.  The company's
 
 [Dr. Brown - Non-drug treatments for ADHD - CES chapter.pdf]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/4.Concentration%20and%20Memory/Dr.%20Brown%20-%20Non-drug%20treatments%20for%20ADHD%20-%20CES%20chapter.pdf
 
+[A Pilot Study of Safety and Efficacy of Cranial Electrotherapy Stimulation in Treatment of Bipolar II Depression (2015)]:https://github.com/FisherWallaceLaboratories/Scientificevidence/blob/master/1.Anxiety%20and%20Depression/A%20Pilot%20Study%20of%20Safety%20and%20Efficacy%20of%20Cranial%20Electrotherapy%20Stimulation%20in%20Treatment%20of%20Bipolar%20II%20Depression.pdf
 
 
 
